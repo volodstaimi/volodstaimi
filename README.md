@@ -90,7 +90,7 @@ Tools           Jira · Confluence · Figma · Product Analytics · CMS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=volodstaimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volodstaimi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=volodstaimi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
@@ -98,14 +98,6 @@ Tools           Jira · Confluence · Figma · Product Analytics · CMS
 ### 🎮 When I'm Not Shipping
 
 Off the clock you'll find me defending my ELO in **League of Legends** or booming into Imperial Age in **Age of Empires 2: DE**. Always down for a 1v1 Arabia.
-
----
-
-### 💭 Things I Believe In because their ideas are stolen by competitors. It's usually because they are abandoned by their owners."*
-
-> *"They don't pay you to know all the answers. They pay you to figure them out."*
-
-> *"People don't want a product. They want an outcome. Your product should be a means to an end."*
 
 ---
 
