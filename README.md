@@ -80,8 +80,8 @@ Tools           Jira · Confluence · Figma · Product Analytics · CMS
 
 ### 🎓 Education
 
-🎓 **MSc Computer Science w/ Software Engineering** — University of Hertfordshire *(In Progress)*
-🎓 **BSc Computer & Software Engineering** — NUCES (FAST)
+🎓 **MSc Computer Science w/ Software Engineering** — University of Hertfordshire *(In Progress)*<br>
+🎓 **BSc Computer & Software Engineering** — NUCES (FAST)<br>
 📜 **Software Product Management Certification** — University of Alberta
 
 ---
@@ -89,7 +89,6 @@ Tools           Jira · Confluence · Figma · Product Analytics · CMS
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=volodstaimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=volodstaimi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
