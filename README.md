@@ -17,7 +17,7 @@ Technical Product Manager with 5+ years of experience building platforms, automa
 <td width="50%" valign="top">
 
 #### 💼 [Volods](https://volods.com)
-Talent acquisition platform helping companies hire fast, on budget, with month-to-month flexibility. Clients include Transcom, Mobily, and healthcare organizations.
+Talent acquisition platform helping companies hire fast, on budget, with month-to-month flexibility.
 
 </td>
 <td width="50%" valign="top">
